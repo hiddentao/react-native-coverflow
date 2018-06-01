@@ -1,4 +1,7 @@
+**This is Meth's custom build of react-native-coverflow, available on NPM via @meth/react-native-coverflow**
+
 # react-native-coverflow
+
 A Coverflow component for react-native.
 
 ## Installation
